@@ -2,7 +2,7 @@
 const nextConfig = {
     reactStrictMode: true,
     trailingSlash: true,
-    basePath: '/tweb/'
+    basePath: '/tweb'
 };
 
 module.exports = nextConfig;
